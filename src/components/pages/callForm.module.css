@@ -1,0 +1,23 @@
+.formsheet{
+    justify-content: center;
+    text-align: center;
+}
+.formLable{
+    font-size: 1.3rem;
+    font-weight: 1rem;
+}
+.formInput{
+    margin-left: 0.5rem;
+    width: 20rem;
+    height: 1rem;
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
+.formButton{
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 1rem;
+    width: 12rem;
+    height: 2rem;
+    justify-content: center;
+}

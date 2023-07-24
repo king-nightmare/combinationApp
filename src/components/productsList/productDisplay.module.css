@@ -1,0 +1,26 @@
+.itemPack{
+    display: flex;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    background-color: white;
+    width: 47rem;
+    border-radius: 1rem;
+    margin-top: 1rem;
+}
+
+
+.itemImg{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+.itemName{
+    margin-right: 1rem;
+}
+.itemLink{
+    margin-top: 1.2rem;
+    margin-left: 1rem;
+    text-decoration: none;
+    color: black;
+}

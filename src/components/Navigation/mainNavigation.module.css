@@ -1,0 +1,24 @@
+.wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 12rem;
+}
+
+.containor{
+    display:inline-block;
+    background-color: dodgerblue;
+    text-align: center;
+    padding: 2rem;
+    border-radius: 1rem;
+    transition: 1s;
+}
+.containor:hover{
+    transform: translateY(-1.5rem);
+}
+.header{
+    color:white;
+}
+.link{
+    color: yellow;
+    text-decoration: none;
+}
